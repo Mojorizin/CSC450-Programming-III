@@ -1,5 +1,5 @@
 # Module 1 Critical Thinking Requirements:
-- Part I
+    - Part I
     - Create a simple C++ console application using Eclipse IDE that prints the following information for a fictional person:
         - First Name, Last Name, Street Address, City, Zip code.
   - Part II
