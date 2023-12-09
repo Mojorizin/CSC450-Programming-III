@@ -34,7 +34,7 @@ They will also apply the principles of strong software design and development to
    - Create a reversal method that will reverse all of the characters in the CSC450_CT5_mod5.txt file.
    - Store the result of the reversal method in a CSC450-mod5-reverse.txt file.
 
-# Module 7 Portfolio Project Reuirements
+# Module 7 Portfolio Project Requirements
 - [ ] Part I
    - Create a C++ application that will exhibit concurrency concepts:
       - Create two threads that will act as counters:
