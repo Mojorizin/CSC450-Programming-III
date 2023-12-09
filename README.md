@@ -2,9 +2,8 @@
 # Colorado State University Global
 # Winter 2023/2024 Term
 
-# This is a respository to keep the assignments for CSC450 Programming III course.
-# Each assignment is stored under its own file. Each file is named per the assignment instructions.
-
+# Each assignment is stored under its own file. 
+# Each file is named per the assignment instructions.
 
 - Module 1 Critical Thinking Requirements:
   - Part I
