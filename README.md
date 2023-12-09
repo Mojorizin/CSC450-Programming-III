@@ -9,14 +9,21 @@
                 
 # Module 2 Critical Thinking Requirements
 - [ ] Create a simple C++ console application that does the following:
-   - take two string inputs from a user.
-   - concatenate the two strings and then print the resulting output to the screen.
+   - Take two string inputs from a user.
+   - Concatenate the two strings and then print the resulting output to the screen.
    - Take the two string inputs from the user 3 times for varying string lengths.
      
 # Module 3 Critical Thinking Requirements
 - [ ] Create a C++ program that does the following: 
-   - asks the user to enter three integer values as input. 
+   - Asks the user to enter three integer values as input. 
    - Store the values into three different variables. 
    - For each variable, create an integer pointer to dynamic memory. 
    - Display the contents of the variables and pointers. 
    - In your program, be sure to use the new operator and delete operators to management memory.
+
+# Module 5 Critical Thinking Requirements
+- [ ] Create a C++ program that does the following: 
+   - Obtain input from a user.
+   - Append and store the input to the provided CSC450_CT5_mod5.txt file without deleting the existing data:
+   - Create a reversal method that will reverse all of the characters in the CSC450_CT5_mod5.txt file.
+   - Store the result of the reversal method in a CSC450-mod5-reverse.txt file.
