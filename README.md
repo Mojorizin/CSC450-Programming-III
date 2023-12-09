@@ -1,8 +1,3 @@
-# CSC450-Programming-III
-# Colorado State University Global
-# Winter 2023/2024 Term
-
-
 # Module 1 Critical Thinking Requirements:
   - Part I
     - Create a simple C++ console application using Eclipse IDE that prints the following information for a fictional person:
