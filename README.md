@@ -27,3 +27,21 @@
    - Append and store the input to the provided CSC450_CT5_mod5.txt file without deleting the existing data:
    - Create a reversal method that will reverse all of the characters in the CSC450_CT5_mod5.txt file.
    - Store the result of the reversal method in a CSC450-mod5-reverse.txt file.
+
+# Module 7 Portfolio Project Reuirements
+- [ ] Part I
+   - Create a C++ application that will exhibit concurrency concepts:
+      - Create two threads that will act as counters:
+         - One thread should count up to 20.
+         - Once thread one reaches 20, then a second thread should be used to count down to 0.
+
+ - [ ] Part II
+   - Provide a detailed analysis of appropriate concepts that could impact your application:
+         Specifically address:
+            Performance issues with concurrency
+            Vulnerabilities exhibited with use of strings
+            Security of the data types exhibited
+
+# Module 8 Portfolio Project Requirements
+   
+      
