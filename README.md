@@ -14,7 +14,7 @@ They will also apply the principles of strong software design and development to
    - Given the provided code in file CSC450_CT1_mod1-2.cpp, correct all syntax errors so that the code will compile correctly.
                 
 # Module 2 Critical Thinking Requirements
-- [ ] Create a simple C++ console application that does the following:
+- [x] Create a simple C++ console application that does the following:
    - Take two string inputs from a user.
    - Concatenate the two strings and then print the resulting output to the screen.
    - Take the two string inputs from the user 3 times for varying string lengths.
