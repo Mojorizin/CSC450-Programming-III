@@ -11,8 +11,8 @@ using namespace std;
 int main() {
 
 	string firstName;  // Variable to store input from user as first name.
-	string lastName;	// Variable to store input from user as last name.
-	int i = 0;				// Variable to control loop.
+	string lastName;   // Variable to store input from user as last name.
+	int i = 0;	   // Variable to control loop.
 
 	// Prompts user for first and last name.
 	// Reads in input as String.
