@@ -7,6 +7,5 @@
         
         - [x] Part III
                 - Given the provided code in file CSC450_CT1_mod1-2.cpp, correct all syntax errors so that the code will compile correctly.
-
-
-  
+                
+# Module 2 Critical Thinking Requirements:
