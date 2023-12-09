@@ -34,7 +34,6 @@
       - Create two threads that will act as counters:
          - One thread should count up to 20.
          - Once thread one reaches 20, then a second thread should be used to count down to 0.
-
 - [ ] Part II
    - Provide a detailed analysis of appropriate concepts that could impact your application:
       - Specifically Address:
@@ -42,6 +41,17 @@
          - Vulnerabilities exhibited with use of strings.
          - Security of the data types exhibited.
 
-  # Module 8 Portfolio Project Requirements
+# Module 8 Portfolio Project Requirements
+- [ ] Part I
+   - Create a Java application that will exhibit concurrency concepts:
+      -  Create two threads that will act as counters:
+         - One thread should count up to 20.
+         - Once thread one reaches 20, then a second thread should be used to count down to 0.
+- [ ] Part II
+   - Provide a detailed analysis of appropriate concepts that could impact your application:
+      - Specifically Address:
+         - Performance issues with concurrency.
+         - Vulnerabilities exhibited with use of strings.
+         - Security of the data types exhibited.          
    
       
