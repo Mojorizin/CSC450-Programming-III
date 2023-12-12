@@ -20,7 +20,7 @@ They will also apply the principles of strong software design and development to
    - Take the two string inputs from the user 3 times for varying string lengths.
      
 # Module 3 Critical Thinking Requirements
-- [ ] Create a C++ program that does the following: 
+- [x] Create a C++ program that does the following: 
    - Asks the user to enter three integer values as input. 
    - Store the values into three different variables. 
    - For each variable, create an integer pointer to dynamic memory. 
