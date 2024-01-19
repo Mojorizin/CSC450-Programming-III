@@ -28,7 +28,7 @@ They will also apply the principles of strong software design and development to
    - In your program, be sure to use the new operator and delete operators to management memory.
 
 # Module 5 Critical Thinking Requirements
-- [ ] Create a C++ program that does the following: 
+- [x] Create a C++ program that does the following: 
    - Obtain input from a user.
    - Append and store the input to the provided CSC450_CT5_mod5.txt file without deleting the existing data:
    - Create a reversal method that will reverse all of the characters in the CSC450_CT5_mod5.txt file.
